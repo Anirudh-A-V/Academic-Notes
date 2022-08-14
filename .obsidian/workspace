@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "bcfb8428b1aba626",
+    "type": "split",
+    "children": [
+      {
+        "id": "c4f2af36117ec5dc",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "296e00a9cc859b2f",
+    "type": "split",
+    "children": [
+      {
+        "id": "e1417d1f0a3d0eb3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7bed899c2f28dfe",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "6da9bd66696154fe",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2e10b043adcdfda8",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "786fe62c8544915b",
+    "type": "split",
+    "children": [
+      {
+        "id": "1eb5f8ac1be4f29a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8fa177c5177dcf32",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "960777105976e010",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8239ffb8bccbb7b9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ea7c6cc8db3c2720",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "62cf2719a126af45",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "c4f2af36117ec5dc",
+  "lastOpenFiles": [
+    "S4/DBMS/Introduction.md",
+    "S4/DBMS/DBMS.md",
+    "S4/DBMS/Database Management System.md",
+    "S4/COA/Computer Organization and Architecture.md",
+    "S4/GT/Graph Theory.md",
+    "S4/Studies.md",
+    "S4/OS/Operating systems.md",
+    "Useful Tips/Git Shortcuts.md",
+    "Useful Tips/Images_/github lines link.png",
+    "Useful Tips/Images_/github lines.png"
+  ]
+}
