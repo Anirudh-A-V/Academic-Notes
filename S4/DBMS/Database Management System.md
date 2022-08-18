@@ -1,5 +1,6 @@
 [[Introduction]]
 
+# Module 1
 1. [[DBMS]]
 2. [[File Processing Approach]]
 3. [[Database Approach]]
@@ -9,6 +10,9 @@
 7. [[Data Independence]]
 8. [[Database Languages]]
 9. [[ER Model]]
-10. 
+
+# Module 2
+
+1. 
 
 

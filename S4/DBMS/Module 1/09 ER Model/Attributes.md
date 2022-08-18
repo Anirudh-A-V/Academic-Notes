@@ -53,3 +53,13 @@ NULL can also be used if we do not know the value of an attribute for a particul
 
 The meaning of the former type of NULL is **not applicable**, whereas the meaning of the latter is **unknown**.
 
+## Value Sets (Domains) of Attributes
+
+Each simple attribute of an entity type is associated with a value set (or domain of values), which specifies the set of values that may be assigned to that attribute for each individual entity.
+
+If the range of ages allowed for employees is between 16 and 70, we can specify the value set of the Age attribute of EMPLOYEE to be the set of integer numbers between 16 and 70.
+
+Similarly, the value set for the Name attribute can be the set of strings of alphabetic characters separated by blank characters, and so on.
+
+Value sets are not typically displayed in basic ER diagrams and are similar to the basic data types available in most programming languages, such as integer, string, Boolean, float, enumerated type, and so on.
+

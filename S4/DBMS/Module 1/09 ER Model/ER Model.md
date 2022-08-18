@@ -20,3 +20,10 @@ There are four Key components in an ER model:
 		- [[Constraints]]
 
 These are drawn in an ER diagram using some [[Notations]]
+
+
+## Prelimnary Design
+
+![[prelim design.png]]
+
+
