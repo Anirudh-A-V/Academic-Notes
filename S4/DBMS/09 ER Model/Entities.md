@@ -10,3 +10,5 @@ Each entity has [[Attributes]]—the particular properties that describe it.
 An **entity type** defines a collection (or set) of entities that have the same attributes.
 
 The collection of all entities of a particular entity type in the database at any point in time is called an **entity set** or entity collection.
+
+An entity type describes the **schema or intension** for a set of entities that share the same structure.
