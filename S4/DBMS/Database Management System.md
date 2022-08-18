@@ -8,6 +8,7 @@
 6. [[Three-schema Architecture]]
 7. [[Data Independence]]
 8. [[Database Languages]]
-9. 
+9. [[ER Model]]
+10. 
 
 

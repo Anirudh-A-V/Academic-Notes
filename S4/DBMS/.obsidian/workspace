@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "08 Database Languages/DDL.md",
+            "file": "09 ER Model/Entities.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "08 Database Languages/DDL.md",
+                "file": "09 ER Model/Entities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "08 Database Languages/DDL.md",
+                "file": "09 ER Model/Entities.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "08 Database Languages/DDL.md"
+                "file": "09 ER Model/Entities.md"
               }
             }
           },
@@ -128,8 +128,17 @@
               "type": "calendar",
               "state": {}
             }
+          },
+          {
+            "id": "f201e9a36c486287",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -138,15 +147,15 @@
   },
   "active": "9a94a6ac9e43a492",
   "lastOpenFiles": [
-    "08 Database Languages/DML.md",
-    "08 Database Languages/Database Languages.md",
-    "08 Database Languages/DDL.md",
+    "09 ER Model/Attributes.md",
+    "09 ER Model/Entities.md",
+    "09 ER Model/Constraints.md",
+    "09 ER Model/Notations.md",
+    "09 ER Model/ER Model.md",
+    "09 ER Model/Relationships.md",
     "Database Management System.md",
-    "07 Data Independence/Physical Data Independence.md",
-    "07 Data Independence/Data Independence.md",
-    "07 Data Independence/Logical Data Independence.md",
-    "05 Database Schemas/Database Schemas.md",
-    "06 Three-schema Architecture/Three-schema Architecture.md",
-    "06 Three-schema Architecture/Conceptual Schema.md"
+    "09 ER Model/Entity Relationship Model.md",
+    "08 Database Languages/Non-procedural DML.md",
+    "00 Introduction/Introduction.md"
   ]
 }
