@@ -6,5 +6,8 @@
 4. [[Data Model]]
 5. [[Database Schemas]]
 6. [[Three-schema Architecture]]
+7. [[Data Independence]]
+8. [[Database Languages]]
+9. 
 
 

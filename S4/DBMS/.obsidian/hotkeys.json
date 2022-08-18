@@ -4,7 +4,7 @@
     {
       "modifiers": [
         "Alt",
-        "Mod"
+        "Shift"
       ],
       "key": "C"
     }
@@ -13,7 +13,7 @@
     {
       "modifiers": [
         "Alt",
-        "Mod"
+        "Shift"
       ],
       "key": "U"
     }
@@ -22,9 +22,18 @@
     {
       "modifiers": [
         "Alt",
-        "Mod"
+        "Shift"
       ],
       "key": "D"
+    }
+  ],
+  "obsidian-git:init-repo": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "I"
     }
   ]
 }

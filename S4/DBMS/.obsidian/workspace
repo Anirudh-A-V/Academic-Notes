@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "0b397ec5d9bd6847",
+        "id": "9a94a6ac9e43a492",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Database Management System.md",
+            "file": "08 Database Languages/DDL.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database Management System.md",
+                "file": "08 Database Languages/DDL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database Management System.md",
+                "file": "08 Database Languages/DDL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database Management System.md"
+                "file": "08 Database Languages/DDL.md"
               }
             }
           },
@@ -136,17 +136,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "0b397ec5d9bd6847",
+  "active": "9a94a6ac9e43a492",
   "lastOpenFiles": [
-    "06 Three-schema Architecture/Three-schema Architecture.md",
-    "05 Database Schemas/Database Schemas.md",
-    "05 Database Schemas/Database Instances.md",
-    "03 Database Approach/Database Approach.md",
-    "02 File Processing Approach/File Processing Approach.md",
+    "08 Database Languages/DML.md",
+    "08 Database Languages/Database Languages.md",
+    "08 Database Languages/DDL.md",
     "Database Management System.md",
-    "04 Data Models/Representational Data Models.md",
-    "04 Data Models/Data Model.md",
-    "04 Data Models/Physical Data Models.md",
-    "01 DBMS/DBMS.md"
+    "07 Data Independence/Physical Data Independence.md",
+    "07 Data Independence/Data Independence.md",
+    "07 Data Independence/Logical Data Independence.md",
+    "05 Database Schemas/Database Schemas.md",
+    "06 Three-schema Architecture/Three-schema Architecture.md",
+    "06 Three-schema Architecture/Conceptual Schema.md"
   ]
 }
