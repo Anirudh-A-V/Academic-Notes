@@ -10,5 +10,8 @@
   "obsidian-banners",
   "obsidian-image-toolkit",
   "oz-image-plugin",
-  "obsidian-outliner"
+  "obsidian-outliner",
+  "table-editor-obsidian",
+  "obsidian-git",
+  "url-into-selection"
 ]

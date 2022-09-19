@@ -1,1 +1,7 @@
-{}
+{
+  "showLineNumber": true,
+  "spellcheck": true,
+  "newFileLocation": "current",
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "./"
+}
