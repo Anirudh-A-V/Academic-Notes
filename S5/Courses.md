@@ -9,3 +9,7 @@
 
 ## Non-Credit
 - Disaster Management 
+
+## Labs
+- System Software Lab
+- Database Management System Lab
