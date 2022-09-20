@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "S5/Courses.md",
+            "file": "S5/MSS/Software Engineering.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "S5/Courses.md",
+                "file": "S5/MSS/Software Engineering.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "S5/Courses.md",
+                "file": "S5/MSS/Software Engineering.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "S5/Courses.md"
+                "file": "S5/MSS/Software Engineering.md"
               }
             }
           },
@@ -138,6 +138,7 @@
   },
   "active": "c4f2af36117ec5dc",
   "lastOpenFiles": [
+    "S5/Courses.md",
     "S4/Studies.md",
     "S4/DBMS/Introduction.md",
     "S4/DBMS/DBMS.md",
@@ -146,7 +147,6 @@
     "S4/GT/Graph Theory.md",
     "S4/OS/Operating systems.md",
     "Useful Tips/Git Shortcuts.md",
-    "Useful Tips/Images_/github lines link.png",
-    "Useful Tips/Images_/github lines.png"
+    "Useful Tips/Images_/github lines link.png"
   ]
 }
